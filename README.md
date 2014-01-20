@@ -1,5 +1,15 @@
 netbeans-php-quickmethodjump
 ============================
+## About
+A very simple Netbeans plugin which was created to offer a quick search among
+methods in currently opened PHP file and jump to the selected method.
 
-A very simple Netbeans plugin which shows methods defined in the currently opened file and offers search and jump to a selected method
+## Environment
+Current support `NetBeans 7.4`
 
+## Howto
+Just install the plugin (todo url of nbm source).
+I also recommend to assing a hotkey (netbeans restart is needed).
+
+## License
+The MIT license
