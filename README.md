@@ -1,7 +1,7 @@
 netbeans-php-quickmethodjump
 ============================
 ## About
-A very simple Netbeans plugin which was created to offer a quick search among
+A very simple Netbeans plugin which was created to offer a quick filter of
 methods in currently opened PHP file and jump to the selected method.
 
 ## Environment
