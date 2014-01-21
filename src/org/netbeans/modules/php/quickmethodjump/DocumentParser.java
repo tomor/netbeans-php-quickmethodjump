@@ -65,7 +65,7 @@ public class DocumentParser {
             String lineText = line.getText();
 
 
-            if (lineText.contains("function")) {
+            if (lineText.toLowerCase().contains(" function ")) {
                 this.linesWithMethods.add(new MLine(line.getLineNumber(), documentLengthCounter, lineText));
             }
 
