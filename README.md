@@ -2,7 +2,7 @@ Netbeans Php Quick Method Jump
 ============================
 ## About
 A very simple Netbeans plugin which was created to offer a quick list and filter
-of methods in currently opened PHP file and jump to the selected one.
+of methods (functions) in currently opened PHP file and jump to the selected one.
 
 ## Environment
 Current support `NetBeans 7.4`
