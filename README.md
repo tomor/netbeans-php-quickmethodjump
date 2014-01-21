@@ -1,4 +1,4 @@
-netbeans-php-quickmethodjump
+Netbeans Php Quick Method Jump
 ============================
 ## About
 A very simple Netbeans plugin which was created to offer a quick list and filter
