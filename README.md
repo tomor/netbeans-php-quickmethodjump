@@ -22,6 +22,9 @@ Note: To be able to assign a hot-key you need to restart Netbeans after plugin i
 - File context menu: Quick Method Jump
 - But the best option is to assign a hot-key - I use Ctrl+Shift+M
 
+## Ideas for next version
+- move quick method jump from menu "Source" to "Navigate", or maybe remove from menu at all?
+
 
 ## License
 The MIT license
